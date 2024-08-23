@@ -356,7 +356,7 @@ section {
     right: 0px;
     padding: 20px;
     overflow-y: scroll;
-    scrollbar-width: none;
+    scrollbar-color: #8c8c8c transparent;
 }
 #main-body {
     max-height: fit-content;
